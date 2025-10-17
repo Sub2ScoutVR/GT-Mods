@@ -16,19 +16,19 @@ Just Longarms:
 - Drag/Speedboost: 0.3
 - Arm Length: 1.24
 - Tag Radius: 5 (or 4 i forgot)
-**============================**
+                               
 SlightBoost:
 - Gravity: -8.5
 - Drag/Speedboost: 0.4
 - Arm Length: 1.24
 - Tag Radius: 5 (or 4 i forgot
-**============================**
+                              
 Tag Aura:
 - Gravity: -9.8
 - Drag/Speedboost: 0.3
 - Arm Length: 1.24
 - Tag Radius: 10
-**============================**
+                                            
 Flooded Map:
 - Arm Length: 1.24
 
