@@ -42,8 +42,12 @@ PATCHES:
 
 Unable to authorize
 Make sure your account is device owner.
+
 Follow the installation steps i said and in short terms install normal gtag join a server then install my mods
 No apps can perform this action.
+
 Switch file exploreres, if nothing works install the apks using mobile vr station.
+
 App not installed as package conflicts with an existing package.
+
 Delete gtag fully from your headset so from all of your accounts.
