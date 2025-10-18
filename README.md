@@ -35,9 +35,13 @@ Flooded Map:
 INSTALLATION:
 
 Step 1: Install "Gorilla.Tag.apk" or normal Gorilla Tag and launch it
+
 Step 2: When you load in join a server and maybe wait for cosmetics to load
+
 Step 3: After just close and uninstall gorilla tag from your library
+
 Step 4: Install one of the modded apks from here and BOOM
+
 PATCHES:
 
 Unable to authorize
